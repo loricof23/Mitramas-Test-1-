@@ -1,0 +1,7 @@
+@tailwind components;
+
+@layer components {
+  .well {
+    @apply bg-primary-shade rounded-md text-white p-2 basis-[32%];
+  }
+}
